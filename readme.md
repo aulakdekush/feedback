@@ -4,8 +4,8 @@ In this repository, you can find the official GitHub public feedback discussions
 In this repository you will find the official Codotto public feedback discussions.
 This repository should be used to:
 
-- report bugs to [codotto](codotto.com)
-- request new features to [codotto](codotto.com)
+- report bugs to [codotto](https://github.com/CharlieBrownCharacter/feedback/issues/new/choose)
+- request new features to [codotto](https://github.com/CharlieBrownCharacter/feedback/issues/new/choose)
 - ask for help
 - make any question that you think you need answers to
 
